@@ -1,7 +1,7 @@
 # UniShopApplet
 基于Java SpringBoot和Vue UniAPP的微信商城小程序
 
-演示视频链接：https://live.csdn.net/v/309068
+演示视频链接：https://live.csdn.net/v/364605
 
 整个项目实现的功能
 
